@@ -9,13 +9,7 @@ The portfolio is designed to be **clean, modern, responsive**, and easy to navig
 
 ## 🖼 Portfolio Preview
 
-<div align="center">
-  <img
-    src="./Images/portfolio-preview.png"
-    alt="Aparnaa A S Portfolio Preview"
-    width="90%"
-  />
-</div>
+https://aparnaa-a-s.netlify.app/
 
 ---
 
