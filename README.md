@@ -1,6 +1,10 @@
 # Aparnaa A S, portfolio
 
+[![Live Site](https://img.shields.io/badge/Live-portfolio--aparnaa.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-aparnaa.vercel.app/)
+
 The personal portfolio website of Aparnaa A S, an ML / AI engineer. It showcases projects, experience, skills and ways to get in touch.
+
+🔗 **Live:** [portfolio-aparnaa.vercel.app](https://portfolio-aparnaa.vercel.app/)
 
 ## What's on the site
 - **Projects:** featured and smaller projects, each with a problem, what was built, tech stack and a detail page
@@ -13,13 +17,13 @@ The personal portfolio website of Aparnaa A S, an ML / AI engineer. It showcases
 Next.js (App Router), TypeScript and Tailwind CSS v4.
 
 ## Hosting
-Deployed on Vercel. GitHub data (repositories, languages, last commit) is fetched on the server and refreshed every 6 hours, so the site updates itself without redeploys.
+Deployed on Vercel at **https://portfolio-aparnaa.vercel.app/**. GitHub data (repositories, languages, last commit) is fetched on the server and refreshed every 6 hours, so the site updates itself without redeploys.
 
 Environment variables (set in Vercel, see `.env.example`):
 
 | Variable | Purpose |
 |---|---|
-| `NEXT_PUBLIC_SITE_URL` | The site's public URL, used for links and social previews |
+| `NEXT_PUBLIC_SITE_URL` | The site's public URL (`https://portfolio-aparnaa.vercel.app`), used for links and social previews |
 | `GITHUB_TOKEN` | Optional read-only token that avoids GitHub API rate limits |
 | `NEXT_PUBLIC_FORMSPREE_ID` | Optional; enables the contact form |
 
